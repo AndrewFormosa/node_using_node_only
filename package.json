@@ -1,0 +1,27 @@
+{
+  "name": "node_using_node_only",
+  "version": "1.0.0",
+  "description": "try render host without yarn",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewFormosa/node_using_node_only.git"
+  },
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "author": "Andrew Formosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewFormosa/node_using_node_only/issues"
+  },
+  "homepage": "https://github.com/AndrewFormosa/node_using_node_only#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
