@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/AndrewFormosa/node_using_node_only#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "axios": "^1.3.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "openai": "^3.2.1"
   }
 }
